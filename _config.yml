@@ -2,21 +2,26 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: blank
 first_name: Poorya
 middle_name: 
 last_name: Sheikh
 email: poorya.sheikh@gmail.com
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+description: >
+  Welcome to my personal website, where I share my passion for technology and my expertise in DevOps. As a
+  DevOps professional, I have a deep understanding of the intersection between software development and IT
+  operations, and I'm always on the lookout for new and innovative ways to optimize and streamline processes. On this website, you'll find articles and blog posts on a wide range of technology topics,
+  including DevOps best practices, cloud computing, automation, and more. I also share my personal
+  experiences and insights on my journey in the tech industry, and provide updates on the latest trends and
+  innovations in the field. Whether you're a fellow DevOps enthusiast or simply interested in learning more
+  about technology, I hope you'll find something here that interests and inspires you. Thank you forvisiting my website!
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
+keywords: poorya, poorya-sheikh, devops, cloud
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 💻  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://poorya.me # the base hostname & protocol for your site
 baseurl:
@@ -71,12 +76,12 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: # your GitHub user name
+github_username: pooryasheikh # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: # your Twitter handle
+twitter_username: pooryasheikh # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: # your LinkedIn user name
-telegram_username: # your Telegram user name
+linkedin_username: poorya-sheikh # your LinkedIn user name
+telegram_username: pooryasheikh # your Telegram user name
 scholar_userid: # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
@@ -104,7 +109,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Feel free to contact me via Telegram or email for any inquiries or opportunities.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -120,9 +125,10 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: a simple whitespace theme for academics
+blog_name: My notes # blog_name will be displayed in your blog page
+blog_nav_title: Blog # your blog must have a title for it to be displayed in the nav bar
+blog_description: >
+  Welcome to my blog, where I share my insights and experiences on the strategies and methods I use to get my job done.
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -137,8 +143,8 @@ related_blog_posts:
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out
 # the information below.
 giscus:
-  repo: alshedivat/al-folio      # <your-github-user-name>/<your-github-repo-name>
-  repo_id: MDEwOlJlcG9zaXRvcnk2MDAyNDM2NQ==
+  repo: pooryasheikh/pooryasheikh      # <your-github-user-name>/<your-github-repo-name>
+  repo_id: R_kgDOJOQ6hg
   category: Comments             # name of the category under which discussions will be created
   category_id: DIC_kwDOA5PmLc4CTBt6
   mapping: title                 # identify discussions by post title
@@ -150,15 +156,13 @@ giscus:
   lang: en
 
 # Disqus comments (DEPRECATED)
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: poorya.sheikh # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
 # If you have blog posts published on medium.com or other exteranl sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -260,8 +264,8 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 
 scholar:
 
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Sheikh]
+  first_name: [Poorya]
 
   style: apa
   locale: en
