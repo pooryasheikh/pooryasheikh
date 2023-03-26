@@ -35,5 +35,8 @@ Here's our schedule for the mentoring group:
 
 The mentoring group will be held for a total of 9 weeks, with one session per week. Each session will be approximately 1.5 hours long.
 
-If you're interested in joining our mentoring group, please email me at [poorya.sheikh@gmail.com](mailto:poorya.sheikh@gmail.com) with your name and a brief introduction about your background and experience with Linux and Docker. We're excited to have you join us on this journey to learn Kubernetes and DevOps!
+If you're interested in joining our mentoring group, please email me at [poorya.sheikh@gmail.com](mailto:poorya.sheikh@gmail.com) with your name and a brief introduction about your background and experience with Linux and Docker.
 
+Please note that the deadline for accepting new members is **March 30th, 2023**. If you have any questions or concerns, please don't hesitate to reach out to me.
+
+Thank you for considering the mentoring group, and I look forward to hearing from you soon!"
