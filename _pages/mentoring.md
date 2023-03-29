@@ -8,6 +8,10 @@ nav: true
 nav_order: 2
 ---
 
+<blockquote>
+ !!REGISTERATION FINISHED!!
+</blockquote>
+
 ### Join our group for Kubernetes
 
 Are you interested in learning about **Kubernetes** and **DevOps**? Our mentoring group is the perfect opportunity for you to get started! We will be studying the book "**Kubernetes in Action**" by Marko Luksa and meeting every week for two months to discuss the material and answer any questions you have.
@@ -23,19 +27,53 @@ Here's what you can expect from our mentoring group:
 
 Here's our schedule for the mentoring group:
 
-- Week 1: Introducing Kubernetes
-- Week 2: First steps with Docker and Kubernetes
-- Week 3: Pods: running containers in Kubernetes
-- Week 4: Replication and other controllers: deploying managed pods
-- Week 5: Services: enabling clients to discover and talk to pods
-- Week 6: Volumes: attaching disk storage to containers
-- Week 7: ConfigMaps and Secrets: configuring applications
-- Week 8: Accessing pod metadata and other resources from applications
-- Week 9: Deployments: updating applications declaratively
+Week 1:
+
+	1. Introducing Kubernetes - page 1
+	2. First steps with Docker and Kubernetes - page 25
+
+Week 2:
+
+	3. Pods: running containers in Kubernetes - page 55
+	4. Replication and other controllers: deploying managed pods - page 84
+
+Week 3:
+
+	4.1. Services: enabling clients to discover and talk to pods - page 120
+	4.2. Volumes: attaching disk storage to containers - page 159
+
+Week 4:
+
+	4.3 ConfigMaps and Secrets: configuring applications - page 191
+	4.4 Accessing pod metadata and other resources from applications - page 225
+
+Week 5:
+
+	9. Deployments: updating applications declaratively - page 250
+	10. StatefulSets: deploying replicated stateful applications - page 280
+
+Week 6:
+
+	11. Understanding Kubernetes internals - page 309
+	12. Securing the Kubernetes API server - page 346
+
+Week 7:
+
+	13. Securing cluster nodes and the network - page 375
+	14. Managing pods' computational resources - page 404
+
+Week 8:
+
+	15. Automatic scaling of pods and cluster nodes - page 437
+	16. Advanced scheduling - page 457
+
+Week 9:
+
+	17. Best practices for developing apps - page 477
+	18. Extending Kubernetes - page 508
+
 
 The mentoring group will be held for a total of 9 weeks, with one session per week. Each session will be approximately 1.5 hours long.
-
-If you're interested in joining our mentoring group, please email me at [poorya.sheikh@gmail.com](mailto:poorya.sheikh@gmail.com) with your name and a brief introduction about your background and experience with Linux and Docker.
 
 Please note that the deadline for accepting new members is **March 30th, 2023**. If you have any questions or concerns, please don't hesitate to reach out to me.
 
