@@ -8,8 +8,6 @@ profile:
   align: right
   image: my_photo.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>Almaty, Kazakhstan</p>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
