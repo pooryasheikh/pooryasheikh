@@ -23,10 +23,16 @@
 <loc>https://poorya.me/cv/</loc>
 </url>
 <url>
-<loc>https://poorya.me/mentoring/</loc>
+<loc>https://poorya.me/kubernetes/</loc>
+</url>
+<url>
+<loc>https://poorya.me/_pages/mentoring/</loc>
 </url>
 <url>
 <loc>https://poorya.me/news/</loc>
+</url>
+<url>
+<loc>https://poorya.me/terraform/</loc>
 </url>
 <url>
 <loc>https://poorya.me/blog/tag/gitops/</loc>
